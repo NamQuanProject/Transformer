@@ -1,0 +1,38 @@
+# Ignore compiled Python files
+*.pyc
+# Ignore virtual environment folders
+venv/
+env/
+__pycache__/
+
+
+# Ignore data files or directories
+data/
+
+# Ignore log files
+*.log
+
+# Ignore IDE or editor-specific files
+idea/
+.vscode/
+
+# Ignore any sensitive or private information (e.g., credentials)
+config.ini
+secrets.json
+
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# macOS folder attributes
+__MACOSX/
+
+# macOS trash folder
+.Trashes
+
+# macOS file that stores the file system's attributes
+.Spotlight-V100
